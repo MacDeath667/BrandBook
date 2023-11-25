@@ -23,61 +23,14 @@
 - Помещать текст или другие элементы поверх логотипов.
 - Изменять шрифт или положение надписи на логотипах.
 - Размещать на неконтрастном фоне прозрачную версию логотипа.
-- Вставлять в логотип ссылку никак не связанную с нашим проектом.
+- Вставлять в логотип ссылку, никак не связанную с нашим проектом.
 
 ### Варианты
 
-Подбирайте вариант логотипа наиболее подходящий под ваши конкретные нужды.
+Подбирайте вариант логотипа наиболее подходящий под ваши конкретные нужды. Рекомендуется использование логотипа, использованного в последнем запущенном сезоне.
+- Season 1: [Logo guide](./Season%201/README.md);
+- Season 2: [Logo guide](./Season%202/README.md).
 
-#### Квадрат
-
-На светлом фоне используйте логотип без рамки. Подходит для создания круглых миниатюр в соц. сетях.
-
-|       |
-| :---: |
-|       |
-| ![Квадрат](bookclub-logo-squared-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared.eps) |
-
-#### Квадрат с рамкой
-
-На тёмном фоне используйте логотип с рамкой.
-
-|       |
-| :---: |
-|       |
-| ![Квадрат с рамкой](bookclub-logo-squared-bordered-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-bordered.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-bordered-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-bordered.eps) |
-
-#### Квадрат на прозрачном фоне
-
-На тёмном цветном фоне используйте прозрачный логотип.
-
-|       |
-| :---: |
-|       |
-| ![Квадрат на прозрачном фоне](bookclub-logo-squared-white-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-white.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-white-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-white-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-white.eps) |
-
-#### Квадрат на прозрачном фоне с рамкой
-
-На тёмном цветном фоне используйте прозрачный логотип с рамкой.
-
-|       |
-| :---: |
-|       |
-| ![Квадрат на прозрачном фоне с рамкой](bookclub-logo-squared-white-bordered-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-white-bordered.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-white-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-white-bordered-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-white-bordered.eps) |
-
-#### Чёрный квадрат
-
-Для внутреннего использования на организационном направлении.
-
-|       |
-| :---: |
-|       |
-| ![Чёрный квадрат](bookclub-logo-squared-black-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-black.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-black-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-black-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-black.eps) |
 
 ## Шрифты
 
