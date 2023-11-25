@@ -28,31 +28,5 @@
 ### Варианты
 
 Подбирайте вариант логотипа наиболее подходящий под ваши конкретные нужды. Рекомендуется использование логотипа, использованного в последнем запущенном сезоне.
-- Season 1: [Logo guide](./Season%201/README.md);
-- Season 2: [Logo guide](./Season%202/README.md).
-
-
-## Шрифты
-
-В нашем логотипе используется шрифт Consolas ™. Это шрифт по-умолчанию который используют .NET разработчики в своих редакторах кода.
-
-См. также:
-
-- [Consolas font family from Microsoft](https://docs.microsoft.com/en-us/typography/font-list/consolas)
-- [Consolas from Wikipedia](https://en.wikipedia.org/wiki/Consolas)
-
-## Цвета
-
-Цветовая схема сообщества снована на цветах официального [логотипа .NET Foundation](https://github.com/dotnet/swag/tree/master/logo).
-
-|             | ![#68217a](https://placehold.it/15/68217a/ffffff?text=+) [Пурпурный](https://www.color-hex.com/color/68217a) | ![#cf18fd](https://placehold.it/15/cf18fd/ffffff?text=+) [Фиолетовый](https://www.color-hex.com/color/cf18fd) | ![#ffffff](https://placehold.it/15/ffffff/ffffff?text=+) [Белый](https://www.color-hex.com/color/ffffff) |
-| ----------- | ---------- | ------------ | ------------- |
-| **Web**     | #68217a    | #cf18fd      | #ffffff       |
-| **RGB**     | 104,33,122 | (207,24,253) | (255,255,255) |
-| **CMYK**    | 15,73,0,52 | 18,91,0,1    | 0,0,0,0       |
-| **Pantone** | 259 C      | 246 C        | White         |
-
-## См. также
-
-- [.NET Brand Guidelines](https://github.com/dotnet/brand)
-
+- [Season 1 logo guide](https://raw.githubusercontent.com/MacDeath667/BrandBook/master/Logo/BookClub/Season%201/README.md);
+- [Season 2 logo guide](https://raw.githubusercontent.com/MacDeath667/BrandBook/master/Logo/BookClub/Season%202/README.md).
